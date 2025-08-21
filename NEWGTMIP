@@ -22,7 +22,7 @@ NC='\033[0m'
 # === Editable Section ===
 DNS_LIST=( "124.6.181.25" "124.6.181.26" "124.6.181.27" "124.6.181.248" "124.6.181.167" "124.6.181.171" "124.6.181.31" )
 NS_LIST=(
-  "ns.klent.medrano-x.shop 124.6.181.167"
+  "ns.silver.medrano-x.com 124.6.181.167"
   "ns.jkrol.fiber-x.shop 124.6.181.31"
   "ns.jkrol.fiber-x.shop 124.6.181.26"
   "ns.jkrol.fiber-x.shop 124.6.181.171"
